@@ -29,10 +29,10 @@ It provides a clean interface with **dark/light mode**, smooth animations, and u
 
 ### 🌞 Light Mode
 
-![Light Mode Preview](https://via.placeholder.com/800x400?text=Light+Mode+Preview)
+![Light Mode Preview](assets/demo1.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode Preview](https://via.placeholder.com/800x400?text=Dark+Mode+Preview)
+![Dark Mode Preview](assets/demo2.png)
 
 ---
